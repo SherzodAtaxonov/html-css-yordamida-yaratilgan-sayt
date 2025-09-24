@@ -1,0 +1,57 @@
+.fon{
+    background-color: blue;
+}
+.btn1{
+    background-color: chocolate;
+    border-radius: 28px;
+    padding: 9px;
+    border: none;
+    color: aliceblue;
+}
+.btn2{
+    background-color: chocolate;
+    border-radius: 28px;
+    padding: 9px;
+    border: none;
+    color: aliceblue;
+}
+.btn3{
+    background-color: rgb(20, 35, 85);
+    border-radius: 28px;
+    padding: 9px;
+    border: none;
+    color: aliceblue;
+
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    height: 100vb;
+    color: aliceblue;
+}
+.text{
+    width: 400px;
+}
+footer{
+    background-color: rgb(25, 25, 73);
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+}
+footer a{
+    
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 30px;
+
+  
+}
+.tt{
+    display: flex;
+    justify-content: space-around;
+}
